@@ -4,8 +4,8 @@ email: me@davidbunce.com
 description: I am a speaker and trainer working and living in East Anglia, England and author of 'Doing Time', a fictional account of a women's prison. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jacknlawson.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: davidbunce_web
+github_username:  davidbunce
 
 # Build settings
 markdown: kramdown

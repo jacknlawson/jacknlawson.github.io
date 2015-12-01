@@ -8,18 +8,23 @@
     {% include header.html %}
 
     <div class="page-content">
-      <div class="wrapper">
+      <div class="wrapper" id="pageheader">
         <div class="centrecontent">
           <h1>{{ page.smalltitle }}</h1>
           <p class="leader">
             {{ page.leader }}
           </p>
-        
+          {% if page.promolink %}
+            <p class="leaderlink">{{ page.promolink }}</p>
+          {% endif %}
+          {% if page.promoimg %}
+            {{ page.promoimg }}
+          {% endif %}
         </div>
       </div>
 
     <div class="centrecontent centre">
-      {{ page.content }}
+      {{ page.content | markdownify }}
     </div>
     
 
