@@ -32,4 +32,4 @@ Here are some responses from students who have done my courses:
 > “I found Jack Lawson two years ago and wish it were twenty. His scholarship, generous encouragement and humour will ensure the success of your Biblical Hebrew studies.”  
 > D.W. Attleborough, Norfolk (Retired Language Teacher)
 
-**Want to learn to read the Hebrew Bible or have a Bat or Bar Mitzvah coming up? Just curious?  [Get in touch!](mailto:jacknlawson@btopenworld.com)**
+**Want to learn to read the Hebrew Bible or have a Bat or Bar Mitzvah coming up? Just curious?  [Get in touch!](mailto:jacknlawson@btopenworld.com)**. Costs: £30 per 90-minute session.
