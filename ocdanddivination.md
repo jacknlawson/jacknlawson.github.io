@@ -14,7 +14,7 @@ The very act of collecting tens of thousands of omens, each complemented by its 
 
 In addition to consulting standards works on OCD and histories of psychiatry, my research was aided by five psychiatrists in both the UK and the US.
 
-My research was published in two parts, in _Le Journal de M__édicines Cun__éiformes_, Vol. 8 2006 and Vol. 9 2007.
+My research was published in two parts, in _Le Journal de Médicines Cunéiformes_, Vol. 8 2006 and Vol. 9 2007.
 
 Presentations of my findings have been given at:
 
