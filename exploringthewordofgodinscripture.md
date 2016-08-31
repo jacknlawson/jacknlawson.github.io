@@ -4,8 +4,6 @@ title: Exploring the Word of God in Scripture | Jack N. Lawson
 smalltitle: Exploring the Word of God in Scripture
 leader: Originally written to celebrate the 400th anniversary of the publication of the King James Version of the Bible, this five part study is concerned with the 'Word of God' - both how the Bible portrays it and how we understand it today in the church.
 permalink: /exploringthewordofgodinscripture/
-promolink: |
-  &#155; <a href="#buy">Get your copy</a> of 'Exploring the Word of God in Scriptures' now.
 promoimg: |
   <img class="promo" src="/images/exploring-the-word.jpg" width="166" height="231" alt="" />
 ---
