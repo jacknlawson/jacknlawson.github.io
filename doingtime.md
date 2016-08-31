@@ -2,11 +2,11 @@
 layout: default
 title: “Doing Time”. a novel by Jack N. Lawson
 smalltitle: “Doing Time”
-leader: Filled with the local color of life in rural North Carolina between the 1950s and 1970s, Doing Time is a poignant - and at times humorous - story of multi-generational trauma and abuse, and the journey of the human spirit to healing and redemption. 
+leader: Filled with the local color of life in rural North Carolina between the 1950s and 1970s, Doing Time is a poignant - and at times humorous - story of multi-generational trauma and abuse, and the journey of the human spirit to healing and redemption.
 permalink: /doingtime/
-promolink: | 
+promolink: |
   &#155; <a href="#buy">Buy a signed copy</a> of “Doing Time”
-promoimg: | 
+promoimg: |
   <img class="promo" src="/images/doingtimecover.jpg" width="166" height="231" alt="Front cover of Jack's latest book, Doing Time" />
 ---
 
@@ -17,28 +17,6 @@ Doing Time is the compelling, true-to-life story of a young woman, Annabel Lee, 
 
 > "As a clinical social worker and psychotherapist in North Carolina for the past 35 years, I have seen many families with the tragic dynamics of violence, alcoholism and shame which are so aptly described in this poignant first novel. Jack Lawson, who has served as a prison chaplain and pastoral counselor, writes convincingly about how the hopes and dreams of young women in this era were controlled by the men in their lives. This is a book that will capture your mind and heart, as you laugh and cry with Annabel Lee on her journey towards self-worth and love."   
 > - Louise W. Coggins, LCSW, BCD
-
-### Signed copy
-
-Buy a signed paperback copy from the author for £12 including postage and packing.
-
-{::nomarkdown}
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_xclick">
-<input type="hidden" name="business" value="jnl1952@gmail.com">
-<input type="hidden" name="lc" value="GB">
-<input type="hidden" name="item_name" value="Doing Time - Author Signed Copy">
-<input type="hidden" name="amount" value="12.00">
-<input type="hidden" name="currency_code" value="GBP">
-<input type="hidden" name="button_subtype" value="services">
-<input type="hidden" name="no_note" value="0">
-<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
-<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-</form>
-{:/nomarkdown}
-
-If you would like the book dedicated to someone else other than yourself, please drop Jack an email on [info@jacknlawson.com](mailto:info@jacknlawson.com).
 
 ### Her Time
 
@@ -51,5 +29,3 @@ In 2014, my son decided to make a short film from a slice of Doing Time. It was 
 1. [Order through Amazon.co.uk](http://www.amazon.co.uk/Doing-Time-Jack-N-Lawson/dp/1452039542/ref=sr_1_11?ie=UTF8&qid=1310581403&sr=8-11)
 2. [Order through Amazon.com](http://www.amazon.com/Doing-Time-Jack-N-Lawson/dp/1452039542/ref=sr_1_1?ie=UTF8&qid=1291658929&sr=8-1)
 3. [Order through Barnes and Noble](http://search.barnesandnoble.com/Doing-Time/Jack-N-Lawson/e/9781452039534/?itm=3&USRI=jack+n.+lawson)
-
- 
