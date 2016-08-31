@@ -24,7 +24,7 @@ Doing Time is the compelling, true-to-life story of a young woman, Annabel Lee, 
 
 In 2014, my son decided to make a short film from a slice of Doing Time. It was his final project for his honours degree at London Southbank University. Although the setting and period of time have been changed, he has done a very credible job. But read the book first!
 
-### 3 other ways to purchase 'Doing Time'
+### 3 ways to purchase 'Doing Time'
 
 1. [Order through Amazon.co.uk](http://www.amazon.co.uk/Doing-Time-Jack-N-Lawson/dp/1452039542/ref=sr_1_11?ie=UTF8&qid=1310581403&sr=8-11)
 2. [Order through Amazon.com](http://www.amazon.com/Doing-Time-Jack-N-Lawson/dp/1452039542/ref=sr_1_1?ie=UTF8&qid=1291658929&sr=8-1)
