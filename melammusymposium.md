@@ -18,4 +18,4 @@ The original findings were presented to the Melammu Symposium (Assyrian and Baby
 
 ### Download the article:
 
-You can download the article as a [PDF document](/documents/melammulogos.pdf).
+You can download the article as a [PDF document](/documents/lawson2001.pdf).
