@@ -5,7 +5,7 @@ smalltitle: “Doing Time”
 leader: Filled with the local color of life in rural North Carolina between the 1950s and 1970s, Doing Time is a poignant - and at times humorous - story of multi-generational trauma and abuse, and the journey of the human spirit to healing and redemption.
 permalink: /doingtime/
 promolink: |
-  &#155; <a href="#buy">Buy a signed copy</a> of “Doing Time”
+  &#155; Buy a signed copy of “Doing Time”
 promoimg: |
   <img class="promo" src="/images/doingtimecover.jpg" width="166" height="231" alt="Front cover of Jack's latest book, Doing Time" />
 ---
