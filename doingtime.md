@@ -24,7 +24,29 @@ Doing Time is the compelling, true-to-life story of a young woman, Annabel Lee, 
 
 In 2014, my son decided to make a short film from a slice of Doing Time. It was his final project for his honours degree at London Southbank University. Although the setting and period of time have been changed, he has done a very credible job. But read the book first!
 
-### 3 ways to purchase 'Doing Time'
+### Signed copy
+
+Buy a signed paperback copy from the author for $14 including postage and packing.
+
+{::nomarkdown}
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="jnl1952@gmail.com">
+<input type="hidden" name="lc" value="GB">
+<input type="hidden" name="item_name" value="Doing Time - Author Signed Copy">
+<input type="hidden" name="amount" value="14.00">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="button_subtype" value="services">
+<input type="hidden" name="no_note" value="0">
+<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
+<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+{:/nomarkdown}
+
+If you would like the book dedicated to someone else other than yourself, please drop Jack an email on [info@jacknlawson.com](mailto:info@jacknlawson.com).
+
+### 3 other ways to purchase 'Doing Time'
 
 1. [Order through Amazon.co.uk](http://www.amazon.co.uk/Doing-Time-Jack-N-Lawson/dp/1452039542/ref=sr_1_11?ie=UTF8&qid=1310581403&sr=8-11)
 2. [Order through Amazon.com](http://www.amazon.com/Doing-Time-Jack-N-Lawson/dp/1452039542/ref=sr_1_1?ie=UTF8&qid=1291658929&sr=8-1)
