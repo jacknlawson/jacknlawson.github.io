@@ -67,8 +67,14 @@ In the mid-1980s I moved to England, where I served in parish ministry in a Kent
 
 My renewal ironically came from a leap back into the life of a layman!  I went to work for the Rural Community Council in the area of rural economic regeneration and community development with disadvantaged rural communities.  I did this work for a period of 5 years—with a break in the middle.
 
-I currently reside in East Anglia, near Norwich, where I am involved in training & development work for the Methodist Church in East Anglia.  Alongside this I teach and supervise dissertations on the M.A. in Pastoral Theology (Cambridge), teach some Biblical Hebrew, research and write. 
+From 2004-2016 I lived in East Anglia, near Norwich, where I was involved in training & development work for the Methodist Church in East Anglia.  Alongside this I taught and supervised dissertations on the M.A. in Pastoral Theology (Cambridge), taught some Biblical Hebrew, did research and wrote.
 
-I am married to Chris, a mental health specialist in child and family psychiatry.  We each have two children from previous marriages.
+### Back in the USA
+
+I have now come full circle in life and reside where I spent my first 18 years: Winston-Salem, North Carolina. Life never ceases to surprise!
+
+I am married to Chris, a retired mental health specialist in child and family psychiatry.  We each have two children from previous marriages.
+
+
 
  
