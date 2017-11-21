@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Biblical Hebrew | Jack N. Lawson
+title: Learn Biblical Hebrew in Winston-Salem! | Jack N. Lawson
 smalltitle: |
-  Biblical Hebrew
+  Learn Biblical Hebrew in Winston-Salem!
 permalink: /biblicalhebrew/
 ---
 ![Biblical Hebrew](http://jacknlawson.com/images/hebrew.jpg)
 
 ## Why learn biblical Hebrew?
 
-Whether you are Christian or Jew, reading the Hebrew Bible/Old Testament in English (or any other translation) is like only being able to see life in black & white. Even a basic understanding of Hebrew will enhance your biblical understanding, providing a full-colour spectrum to what can often be, at best, fuzzy black & white.
+Whether you are Christian or Jew, reading the Hebrew Bible/Old Testament in English (or any other translation) is like only being able to see life in black &amp; white. Even a basic understanding of Hebrew will enhance your biblical understanding, providing a full-colour spectrum to what can often be, at best, fuzzy black &amp; white.
 
 ## Nu? So what’s your background in Hebrew?
 
@@ -32,4 +32,4 @@ Here are some responses from students who have done my courses:
 > “I found Jack Lawson two years ago and wish it were twenty. His scholarship, generous encouragement and humour will ensure the success of your Biblical Hebrew studies.”  
 > D.W. Attleborough, Norfolk (Retired Language Teacher)
 
-**Want to learn to read the Hebrew Bible or have a Bat or Bar Mitzvah coming up? Just curious?  [Get in touch!](mailto:jacknlawson@btopenworld.com)**. Costs: £30 per 90-minute session.
+**Want to learn to read the Hebrew Bible or have a Bat or Bar Mitzvah coming up? Just curious?  [Get in touch by email!](mailto:jacknlawson@btopenworld.com)** or ring 336-354-3589. Costs: $40 per 90-minute session. *The first lesson is free*

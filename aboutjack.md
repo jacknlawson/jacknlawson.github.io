@@ -63,11 +63,9 @@ I worked another three and a half years in developing the chaplaincy programme a
 
 ### Moving across to England
 
-In the mid-1980s I moved to England, where I served in parish ministry in a Kentish sea-side town for 10 years.  Over those 10 years I became disenchanted with an increasingly moribund institutional church, and found myself in a spiritual desert. 
+In the mid-1980s I moved to England, where I served in parish ministry in a Kentish sea-side town for 10 years. Over those 10 years I became disenchanted with an increasingly moribund United Reformed Church (URC), and found myself in a spiritual desert. Although I had engaged the help of an Anglo-Catholic priest colleague, who became my spiritual director, my renewal (ironically) came from a leap back into the life of a layman! I left the URC and went to work for the Rural Community Council in the area of rural economic regeneration and community development with disadvantaged rural communities. I did this work for a period of 5 years. Alongside this I became involved in an Anglo-Catholic parish, where I preached regularly.
 
-My renewal ironically came from a leap back into the life of a layman!  I went to work for the Rural Community Council in the area of rural economic regeneration and community development with disadvantaged rural communities.  I did this work for a period of 5 years—with a break in the middle.
-
-From 2004-2016 I lived in East Anglia, near Norwich, where I was involved in training & development work for the Methodist Church in East Anglia.  Alongside this I taught and supervised dissertations on the M.A. in Pastoral Theology (Cambridge), taught some Biblical Hebrew, did research and wrote.
+From 2004-2016, I lived in East Anglia, near Norwich, where I was involved in training &amp; development work for the Methodist Church in East Anglia. Alongside this I taught and supervised dissertations on the M.A. in Pastoral Theology (Cambridge), teach some Biblical Hebrew, did research and wrote.
 
 ### Back in the USA
 
