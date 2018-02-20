@@ -5,7 +5,7 @@ smalltitle: |
   Joy of Texts
 permalink: /joyoftexts/
 ---
-I am a founding member of the Norwich Centre for Christian Learning, based at Norwich Cathedral, where I regularly lead seminars such as those above.  More information can be found on the web site: [www.norwichcentreforchristianlearning.co.uk](http://www.norwichcentreforchristianlearning.co.uk/)
+I am a founding member of the [Norwich Centre for Christian Learning](http://www.norwichcentreforchristianlearning.co.uk/), an ecumenical organisation based at the Norwich Cathedral library, and where I led many of the above seminars.  
 
 Some of the groups and churches who have invited me to lead seminars are:
 
