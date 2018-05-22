@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body {% if page.permalink contains 'respite' %}class="respite"{% endif %}>
 
     {% include header.html %}
 

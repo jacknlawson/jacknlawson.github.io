@@ -220,3 +220,19 @@ line-height: 35px;}
 
 #menu ul li a:hover { text-decoration: underline;
 background: #95CBE5; }
+
+.center-image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.img-left {
+	float: left;
+	margin-right: 20px;
+}
+
+.img-right {
+	float: right;
+	margin-left: 20px;
+}
