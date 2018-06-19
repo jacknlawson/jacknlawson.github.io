@@ -15,6 +15,7 @@ In Jack’s work as a minister, and through his work as a training and developme
 And then there are situations which can, for a variety of reasons, become toxic for the minister. This can happen within a congregation, a chaplaincy or social ministry. When that happens, it is not the minister alone who suffers but, if married, the spouse as well. At such times help and nurture are needed. And that is what we offer, for too often help is only available—if at all—for the ordained person.
 
 ## Who are we?
+
 ![A picture of Chris and Jack](/images/chrisandjack.jpg){: .img-left }
 __Jack__: An ordained minister of 39 years who has worked in both the US and the UK, as a prison chaplain, part of an urban multi-staff church, solo-pastor in town and country settings. Jack also served for nearly 13 years in church training and development work and is well experienced with tools such as the Myers-Briggs Type Indicator™, FIRO-B® and the Thomas-Kilmann Conflict Mode Instrument. Jack also has long experience as a spiritual director for ministers within different denominations.
 

@@ -69,7 +69,7 @@ From 2004-2016, I lived in East Anglia, near Norwich, where I was involved in tr
 
 ### Back in the USA
 
-I have now come full circle in life and reside where I spent my first 18 years: Winston-Salem, North Carolina. Life never ceases to surprise!
+I have now come full circle in life and reside where I spent my first 18 years: Winston-Salem, North Carolina. Life never ceases to surprise! Once more I am working in a half-time support role for the Methodist Church in the Yadkin Valley District.
 
 I am married to Chris, a retired mental health specialist in child and family psychiatry.  We each have two children from previous marriages.
 
