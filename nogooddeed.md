@@ -13,4 +13,4 @@ promoimg: |
 > "One of the best elements of the novel is its continuously exciting development. The story grips the reader by its extraordinary sequence of events, right up to the final happenings which dominate the second part of the novel.  In creating a character of such interest and complexity as Kyle proves to be, Jack Lawson has written a remarkable novel and has opened up for the reader an amazing range of thoughts and questions."   
 > - Dr. Michael Honeybone, Norwich, England
 
-Coming June 1 on Amazon and Wings ePress.
+Published June 1 on <a href="https://www.amazon.com/No-Good-Deed-Jack-Lawson/dp/1613095732/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=">Amazon</a> and <a href="https://wingsepress.com/products/no-good-deed">Wings ePress</a>.
